@@ -1,8 +1,5 @@
 # LLuffman: LLM-based steganography
 
-## Description
-This repository contains complete source code from the original patch created and published by [Pokes](https://botnoise.org/~pokes/) in this [link](https://botnoise.org/~pokes/lluffman/).
-
 ## How to compile
 First you must download some model like 7B, 13B, 30B, etc, for examle from this [link](https://huggingface.co/ocrickard/LLaMa-7B-ggml-4bit-updated/tree/665b01ed0e5b73bb889f75c6060efb63164df354) and save the `.bin` file into the `models/7B/` directory.
 
